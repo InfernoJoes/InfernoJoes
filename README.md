@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 - 
       - Email: InfernoJameson@gmail.com
-      - 
       - Discord: InfernoJoe#5803
 
 <!---
