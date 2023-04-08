@@ -4,7 +4,7 @@
 - 💞️ I’m not really looking to collaborate, just here to have fun!
 - 📫 How to reach me:
 - 
-      - Email: InfernoJameson@gmail.com
+      - Email: housaynraffea@gmail.com
       - Discord: InfernoJoe#5803
 
 <!---
