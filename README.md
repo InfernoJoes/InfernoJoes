@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InfernoJoes!
 - 👀 I’m interested in art, animation and games!
-- 🌱 I’m currently learning c#, c++ and python!
-- 💞️ I’m not really looking to collaborate, just here to have fun!
+- 🌱 I’m currently learning gdscript!
+- 💞️ I’m not really looking to collaborate much, just here to have fun!
 - 📫 How to reach me:
 - 
       - Email: housaynraffea@gmail.com
