@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning gdscript!
 - 💞️ I’m not really looking to collaborate much, just here to have fun!
 - 📫 How to reach me:
-- 
-      - Email: housaynraffea@gmail.com
       - Discord: InfernoJoe#5803
 
 <!---
